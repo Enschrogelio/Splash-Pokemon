@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="text">www.pokemon.com</string>
+    <string name="close">Exit</string>
+</resources>
